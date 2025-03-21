@@ -26,7 +26,7 @@
 
 1️⃣ **Clone the repository:**  
 ```sh
-git clone https://github.com/your-username/zentry-clone.git
+git clone https://github.com/ben-bader/Zentry.git
 ```  
 
 2️⃣ **Navigate to the project directory:**  
