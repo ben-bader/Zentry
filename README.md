@@ -13,7 +13,7 @@
 
 
 ## 🖼️ **Preview**  
-
+![Preview Image](public/img/Preview.png) 
 
 ## 🛠 **Tech Stack**  
 
