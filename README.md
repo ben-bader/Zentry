@@ -1,4 +1,3 @@
-# **Zentry Clone – Modern Landing Page (React + TailwindCSS + GSAP)**  
 #Zentry Clone – Modern Landing Page (React + TailwindCSS + GSAP)**  
 
 🚀 A **high-performance, modern, and animated Zentry landing page clone** built using **React, TailwindCSS, and GSAP**. This project replicates Zentry’s sleek and futuristic UI with smooth animations and a fully responsive design.  
@@ -14,6 +13,7 @@
 
 ## 🖼️ **Preview**  
 
+![Preview Image](public/img/Preview.png) 
 
 ## 🛠 **Tech Stack**  
 
