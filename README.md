@@ -11,10 +11,7 @@
 
 
 ## 🖼️ **Preview**  
-<<<<<<< HEAD
 
-=======
->>>>>>> dfa5362a83ed7b33c4276cb02239fab636af4922
 ![Preview Image](public/img/Preview.png) 
 
 ## 🛠 **Tech Stack**  
